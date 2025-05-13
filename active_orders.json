@@ -1,0 +1,84 @@
+{
+  "021b0e1b-499a-4fdb-bf4c-3af9cc477585": {
+    "symbol": "ETCUSDT",
+    "price": 15.185,
+    "direction": "Buy",
+    "interval": 5,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:05:04.858782"
+  },
+  "27bf5ab2-bfc1-4a8a-9b83-0d202a51f44b": {
+    "symbol": "SOLUSDT",
+    "price": 120.31,
+    "direction": "Buy",
+    "interval": 3,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:05:04.877803"
+  },
+  "null": {
+    "symbol": "XRPUSDT",
+    "price": 2.0487,
+    "direction": "Buy",
+    "interval": 1,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:46.102086"
+  },
+  "8f080a7d-9215-4f35-8556-d0bb7651417f": {
+    "symbol": "XMRUSDT",
+    "price": 203.61,
+    "direction": "Buy",
+    "interval": 1,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:05:11.714099"
+  },
+  "41422e1e-3b3e-49ea-bbe4-ea32165d2a39": {
+    "symbol": "ETCUSDT",
+    "price": 15.206,
+    "direction": "Buy",
+    "interval": 3,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:45.950068"
+  },
+  "dcce6b45-8bf6-4f7e-aa2e-600226f4d897": {
+    "symbol": "XMRUSDT",
+    "price": 203.67,
+    "direction": "Buy",
+    "interval": 5,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:45.979066"
+  },
+  "10453749-9192-492e-b39b-705659c33350": {
+    "symbol": "ETCUSDT",
+    "price": 15.206,
+    "direction": "Buy",
+    "interval": 1,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:46.013071"
+  },
+  "d71f4c7c-66ec-460b-9c7c-5e0f44b50987": {
+    "symbol": "ETCUSDT",
+    "price": 15.206,
+    "direction": "Buy",
+    "interval": 5,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:46.039072"
+  },
+  "9a95d9d5-a756-4349-afc9-237b2c66f889": {
+    "symbol": "SOLUSDT",
+    "price": 120.48,
+    "direction": "Buy",
+    "interval": 1,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:46.042076"
+  },
+  "null": {
+    "symbol": "XRPUSDT",
+    "price": 2.0487,
+    "direction": "Buy",
+    "interval": 5,
+    "tp_percent": 1.03,
+    "time": "2025-04-11T22:06:47.520597"
+  }
+}5-04-11T22:06:47.520597"
+  }
+}
